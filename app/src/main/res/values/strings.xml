@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">saarhoek-pset1</string>
+    <string name="arms">Arms</string>
+    <string name="ears">Ears</string>
+    <string name="eyes">Eyes</string>
+    <string name="hat">Hat</string>
+    <string name="brows">Brows</string>
+    <string name="stach">Moustache</string>
+    <string name="shoes">Shoes</string>
+    <string name="body">Body</string>
+    <string name="glasses">Glasses</string>
+    <string name="nose">Nose</string>
+    <string name="mouth">Mouth</string>
+    <string name="title">Mr. Potato Head</string>
+    <string name="add">Dress Up</string>
+    <string name="complete">Mr. Potato Head Dress Up</string>
 </resources>
